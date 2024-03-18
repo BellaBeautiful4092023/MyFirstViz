@@ -1,4 +1,4 @@
 # MyFirstViz
 Tableau Challenge
 
-https://public.tableau.com/app/profile/belinda.oshomuvwe/viz/TableauChallenge_17098233964100/StartingStations
+(https://public.tableau.com/app/profile/belinda.oshomuvwe/viz/MyFirstViz_17107990701240/EndingStatiionsMap)https://public.tableau.com/app/profile/belinda.oshomuvwe/viz/MyFirstViz_17107990701240/EndingStatiionsMap
