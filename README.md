@@ -3,7 +3,8 @@ Tableau Challenge
 
 https://public.tableau.com/app/profile/belinda.oshomuvwe/viz/MyFirstViz_17107990701240/EndingStatiionsMap
 
-![Uploading image.png…]()
+![image](https://github.com/BellaBeautiful4092023/MyFirstViz/assets/147251051/56f8699b-6729-498c-bb34-7f206245398b)
+
 
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
